@@ -1,0 +1,21 @@
+.onglet{
+	font : bold 15px Batang, Arial, serif;
+    list-style-type : none;
+    padding-bottom : 50px; 
+    border-bottom : 1px solid #9EA0A1;
+    margin-left : 0;
+}
+
+.onglets{
+    float : left;
+    height : 30px; 
+    background-color: #855D89;
+    margin : 2px 2px 0 2px !important; 
+    margin : 1px 2px 0 2px;  
+    border : 1px solid #9EA0A1;
+}
+
+.onglets{
+    border-bottom: 1px solid #fff;
+    background-color: #fff;
+}

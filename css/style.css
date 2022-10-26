@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&display=swap');
+@import url("components/container.css");
+@import url("components/image.css");
+@import url("components/bouton.css");
+@import url("components/baniere.css");
+@import url("components/card-menu.css");
+@import url("components/menu.css");
+@import url("components/fixed-header.css");
+@import url("components/fixed-footer.css");
+@import url("components/content.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Abyssinica', serif;
+	background-color: #EDE4E0;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	margin-top: 0px auto;
+}
+
+h2, h3{
+	font-family: 'Dancing Script', cursive;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+}
+

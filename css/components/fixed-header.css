@@ -1,0 +1,7 @@
+.fixed-header{
+	width: 100%;
+	position: fixed;
+	top: -20px;
+	margin-top: 0px;
+	left: 0px;
+}

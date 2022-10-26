@@ -1,0 +1,11 @@
+.image-round{
+	width: 500px;
+	border-radius: 0%;
+}
+
+.image-logo{
+	width: 100px;
+	border-radius: 65%;
+	margin: 10px;
+	float: left;
+}
